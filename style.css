@@ -33,24 +33,6 @@ canvas{
   border: 3px #999 solid;
 }
 
-.button {
-    background-color: #04a;
-  display: block;
-  width: 188px;
-  height: 68px;
-  position: relative;
-  border: 2px solid #04a;
-  margin: 200px auto;
-  border-radius: 5px;
-}
-
-#creds {
-   display: block;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  color: #fff;
-  text-transform: uppercase;
-  line-height: 60px;
+#Credits {
+    top: auto;
 }
